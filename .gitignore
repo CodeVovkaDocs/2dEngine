@@ -1,0 +1,13 @@
+/Debug
+stb_image.h
+glew32.dll
+ECSTest/ECS_Test/.vs/
+ECSTest/ECS_Test/Debug/
+.vs/
+ECSTest/ECS_Test/Release/
+ECSTest/ECS_Test/ECS_Test/Release/
+ECSTest/ECS_Test/ECS_Test/Debug/
+RedEngine2D/Debug/
+RedEngine2D/RedEngine2D.vcxproj
+RedEngine2D/RedEngine2D.vcxproj.filters
+RedEngine2D/RedEngine2D.vcxproj.user
